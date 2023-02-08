@@ -1,2 +1,0 @@
-# tecnologiasaplicadas
-Teste Site
